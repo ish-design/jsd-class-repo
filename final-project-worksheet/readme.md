@@ -24,7 +24,9 @@ The vision for this project is a choropleth math of NYC that is broken down by t
 
 ##### Examples and Resources
 [Mapbox 1](https://www.mapbox.com/help/choropleth-studio-gl-pt-1/)
+
 [Mapbox 2](https://www.mapbox.com/help/choropleth-studio-gl-pt-2/)
+
 [Mapbox by zoom](https://www.mapbox.com/mapbox-gl-js/example/updating-choropleth/)
 
 
