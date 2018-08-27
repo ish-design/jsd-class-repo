@@ -17,18 +17,36 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-### Neighborhood Tastes
+### State Tastes
 
 #### What
-The vision for this project is a choropleth math of NYC that is broken down by the specific tastes for each neighborhood/region. The tastes will come from venues that are prevelant to those areas and mayb not necessarily revolve around just food. Neighborhood with large amount of pizza places would end up falling under the over arching taste of "pizza" whereas another that has mostly music shop might be considered "music lovers".
+The vision for this project is a choropleth map of the US that is broken down by the specific tastes for each state/region. The tastes will come from venues that are prevelant to those areas and may not necessarily revolve around just food. Neighborhood with large amount of pizza places would end up falling under the over arching taste of "pizza" whereas another that has mostly music shop might be considered "music lovers".
 
 ##### Examples and Resources
 [Mapbox 1](https://www.mapbox.com/help/choropleth-studio-gl-pt-1/)<br />
-[Mapbox 2](https://www.mapbox.com/help/choropleth-studio-gl-pt-2/)
+[Mapbox 2](https://www.mapbox.com/help/choropleth-studio-gl-pt-2/)<br />
 [Mapbox by zoom](https://www.mapbox.com/mapbox-gl-js/example/updating-choropleth/)
 
 
 #### How
+The necessary data is pulled from the [Foursqaure API](https://developer.foursquare.com/) and the map rendered with [Mapbox](https://www.mapbox.com/). From the API i'll be able to pull venue Lat/Lon's and drop them onto a stylized mapbox map. The app's functions and interactions are powered by the Mapbox JS library and possibly some custom JS, and consits of the follwing:
+
+##### State Borders and Location
+Ability to break down the map by regions and drop the Foursquare Lat/Lon in their corresponding locations.
+
+##### Aggregated Tastes
+Lopping through the API results in order to display only the predominant tastes.
+
+##### Hover
+Display some information(predominant taste, state name, #of venues, etc) regarding the state the usre hover over. 
+
+##### Zoom Function (nice to have)
+Affect information being displayed depening on user's zoom level. 
+
+##### Resources
+[Foursquare endpoint](https://developer.foursquare.com/docs/api/endpoints)
+[Foursquare venue details](https://developer.foursquare.com/docs/api/venues/details)
+[Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
 
 
 [I'm an inline-style link](https://www.google.com)
