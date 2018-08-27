@@ -44,12 +44,10 @@ Display some information(predominant taste, state name, #of venues, etc) regardi
 Affect information being displayed depening on user's zoom level. 
 
 ##### Resources
-[Foursquare endpoint](https://developer.foursquare.com/docs/api/endpoints)
-[Foursquare venue details](https://developer.foursquare.com/docs/api/venues/details)
-[Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
+[Foursquare endpoint](https://developer.foursquare.com/docs/api/endpoints)<br />
+[Foursquare venue details](https://developer.foursquare.com/docs/api/venues/details)<br />
+[Mapbox Studio](https://www.mapbox.com/mapbox-studio/)<br />
 
-
-[I'm an inline-style link](https://www.google.com)
 
 ## Wireframes
 
