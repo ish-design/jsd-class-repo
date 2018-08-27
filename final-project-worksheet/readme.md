@@ -23,10 +23,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 The vision for this project is a choropleth math of NYC that is broken down by the specific tastes for each neighborhood/region. The tastes will come from venues that are prevelant to those areas and mayb not necessarily revolve around just food. Neighborhood with large amount of pizza places would end up falling under the over arching taste of "pizza" whereas another that has mostly music shop might be considered "music lovers".
 
 ##### Examples and Resources
-[Mapbox 1](https://www.mapbox.com/help/choropleth-studio-gl-pt-1/)
-
+[Mapbox 1](https://www.mapbox.com/help/choropleth-studio-gl-pt-1/)<br />
 [Mapbox 2](https://www.mapbox.com/help/choropleth-studio-gl-pt-2/)
-
 [Mapbox by zoom](https://www.mapbox.com/mapbox-gl-js/example/updating-choropleth/)
 
 
