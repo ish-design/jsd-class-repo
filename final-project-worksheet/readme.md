@@ -51,7 +51,11 @@ Affect information being displayed depening on user's zoom level.
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+#### Screen 1 - Hover
+![alt text](https://github.com/ish-design/jsd-class-repo/blob/master/final-project-worksheet/class-screen1.png "Hover Image")
+
+#### Screen 1 - Hover
+![alt text](https://github.com/ish-design/jsd-class-repo/blob/master/final-project-worksheet/class-Screen%201%20Tooltip.png?raw=true "Hover Image")
 
 ## Priority Matrix
 
