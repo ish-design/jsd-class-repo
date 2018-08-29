@@ -51,10 +51,10 @@ Affect information being displayed depening on user's zoom level.
 
 ## Wireframes
 
-#### Screen 1 - Hover
+#### Screen 1
 ![alt text](https://github.com/ish-design/jsd-class-repo/blob/master/final-project-worksheet/class-screen1.png "Hover Image")
 
-#### Screen 1 - Hover
+#### Screen 1 - Tooltip
 ![alt text](https://github.com/ish-design/jsd-class-repo/blob/master/final-project-worksheet/class-Screen%201%20Tooltip.png?raw=true "Hover Image")
 
 ## Priority Matrix
